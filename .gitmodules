@@ -1,3 +1,6 @@
 [submodule "BASE"]
 	path = BASE
 	url = https://github.com/OrganisationForPlayAccount/BASE.git
+[submodule "PMC_ANALYTIC"]
+	path = PMC_ANALYTIC
+	url = https://github.com/OrganisationForPlayAccount/PMC_ANALYTIC.git
